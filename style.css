@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+}
+
+nav {
+  border-bottom: 1px solid #212121;
+  padding: 20px;
+  background-color: #b5acac;
+  margin: 0;
+  align-items: center;
+  text-align: center;
+}
+
+nav a {
+  background-color: #fff;
+  padding: 10px 30px;
+  border-radius: 8px;
+  color: #212121;
+  text-decoration: none;
+  border: 2px solid #212121;
+  align-items: center;
+  background-color: rgb(209, 206, 206);
+}
+
+span {
+  display: block;
+}
+
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 85px;
+  height: 85px;
+  border: 2px solid black;
+  display: inline-block;
+  border-radius: 20%;
+}
+
+#black {
+  background-color: black;
+}
+#violet {
+  background-color: violet;
+}
+#blue {
+  background-color: blue;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}
+#orange {
+  background-color: orange;
+}
+#red {
+  background-color: red;
+}
+#pink {
+  background-color: pink;
+}
+#goldenrod {
+  background-color: goldenrod;
+}
+#teal {
+  background-color: teal;
+}
+#powderblue {
+  background-color: powderblue;
+}
+#olive {
+  background-color: olive;
+}
+#purple {
+  background-color: purple;
+}
+#magenta {
+  background-color: magenta;
+}
+#brown {
+  background-color: brown;
+}
+#white {
+  background-color: white;
+}
